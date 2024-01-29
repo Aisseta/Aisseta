@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-French-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on my impactful and meaningful 
+- 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning software development at @Adatechschool
-- 👯 I’m looking to collaborate on your open source projects
-
+- 👯 I’m looking to collaborate on meaningful projects
 <br>
