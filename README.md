@@ -9,7 +9,7 @@
 
 
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Testing-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-French-dodgerblue" />
 </p>
 
